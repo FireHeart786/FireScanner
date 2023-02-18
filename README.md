@@ -9,10 +9,20 @@ Features of FireScanner
 # Modules required to be installed
 
 1) nmap
-pip install python-nmap
+
+   pip install python-nmap
 
 2) Scapy
-pip install scapy
+
+   pip install scapy
+
+
+
+
+
+
+
+
 
 
 
