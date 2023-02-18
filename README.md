@@ -6,4 +6,14 @@ Features of FireScanner
   3) Can scan the given ip and return with the devices connected with that ip along with mac address. 
   4) Perform the vulneribilty analysis on given ip and gives the report in out file in xml format
 
-Modules required to be installed
+# Modules required to be installed
+
+1) nmap
+
+
+pip install python-nmap
+
+2) scapy
+
+pip install scapy
+
